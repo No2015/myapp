@@ -1,7 +1,7 @@
 {
   "name": "bjsapp",
   "version": "1.0.0",
-  "description": "笔加索App",
+  "description": "Vue App",
   "author": "陈其文 <jianwang19@sina.com>",
   "private": true,
   "scripts": {
