@@ -1,6 +1,6 @@
 # bjsapp
 
-> 笔加索App
+> Vue App
 
 ## Build Setup
 
