@@ -1,4 +1,4 @@
-# bjsapp
+# myapp
 
 > Vue App
 
